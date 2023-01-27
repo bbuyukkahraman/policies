@@ -20,3 +20,12 @@ Contents
 
    usage
    api
+   Bilgi Güvenliği Politikası (2020)
+   BT Değişiklik Yönetimi Prosedürü (2020)
+   BT Genel Kullanıcı Hesapları Prosedürü (2020)
+   BT Proje Yönetimi Prosedürü (2020)
+   BT Risk Yönetimi Prosedürü (2020)
+   BT Tedarikçi Yönetimi Prosedürü (2020)
+   BT Varlık Yönetim Prosedürü (2020)
+   Kabul Edilebilir Kullanım Politikası (2021)
+   AG BT Standartları (2021)
